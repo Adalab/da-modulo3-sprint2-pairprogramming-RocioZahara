@@ -1,4 +1,4 @@
-pip install pandas
+#pip install pandas
 import pandas as pd
 
 # Lee los archivos CSV
